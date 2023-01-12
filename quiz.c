@@ -3,11 +3,9 @@
 
 /**
  * Author: Raymond Omoraka
- *
- *
- *
- *
- *
+ * main - entry point
+ * 	this is a program on Quiz Questions in C (malloc, free)
+ * return: 0 if success
  */
 
 int main()
